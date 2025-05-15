@@ -1,0 +1,7 @@
+[package]
+name = "angunna_gamage_thilina_ranmal"
+version = "0.1.0"
+edition = "2021"
+authors = ["ranmal.gamage@sa.stud.vu.lt"]
+
+[dependencies]
